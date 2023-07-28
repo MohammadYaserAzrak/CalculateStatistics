@@ -1,5 +1,5 @@
 # Calculate Statistics
-Two applications that will calculate the min, max, and average of a collection of data using multiple processes (statFork.cpp) and multiple threads (statThread.cpp).
+Two applications, each calculates the min, max, and average of a collection of data. One using multiple processes (statFork.cpp), and the other using multiple threads (statThread.cpp).
 
 ## Prerequisites
 - Qt 6 library 
